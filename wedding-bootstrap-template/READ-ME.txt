@@ -1,8 +1,8 @@
   =>  Template Name    : Mr&Mrs - Wedding Bootstrap Template
 
-  =>  Template Link    : https://htmlcodex.com/wedding-bootstrap-template
+  =>  Template Link    : https://otmar.profesional.bo/wedding-bootstrap-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://otmar.profesional.bo/license (or read the LICENSE.txt file)
 
   =>  Template Author  : Otmard
 

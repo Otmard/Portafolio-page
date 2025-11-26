@@ -1,8 +1,8 @@
   =>  Template Name    : Poseify - Modeling Agency Website Template
 
-  =>  Template Link    : https://htmlcodex.com/modeling-agency-website-template
+  =>  Template Link    : https://otmar.profesional.bo/modeling-agency-website-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://otmar.profesional.bo/license (or read the LICENSE.txt file)
 
   =>  Template Author  : Otmard
 

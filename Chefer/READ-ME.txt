@@ -1,8 +1,8 @@
   =>  Template Name    : CHEFER - Chef Website Template
 
-  =>  Template Link    : https://htmlcodex.com/chef-website-template
+  =>  Template Link    : https://otmar.profesional.bo/chef-website-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://otmar.profesional.bo/license (or read the LICENSE.txt file)
 
   =>  Template Author  : Otmard
 

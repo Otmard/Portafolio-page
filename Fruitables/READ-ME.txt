@@ -1,8 +1,8 @@
   =>  Template Name    : Fruitables - Vegetable Website Template
 
-  =>  Template Link    : https://htmlcodex.com/vegetable-website-template
+  =>  Template Link    : https://otmar.profesional.bo/vegetable-website-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://otmar.profesional.bo/license (or read the LICENSE.txt file)
 
   =>  Template Author  : Otmard
 

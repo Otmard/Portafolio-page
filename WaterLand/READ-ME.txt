@@ -1,8 +1,8 @@
   =>  Template Name    : WaterLand - Water Park Website Template
 
-  =>  Template Link    : https://htmlcodex.com/water-park-website-template
+  =>  Template Link    : https://otmar.profesional.bo/water-park-website-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://otmar.profesional.bo/license (or read the LICENSE.txt file)
 
   =>  Template Author  : Otmard
 
